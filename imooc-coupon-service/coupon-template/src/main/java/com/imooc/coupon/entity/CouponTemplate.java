@@ -8,7 +8,7 @@ import com.imooc.coupon.constant.ProductLine;
 import com.imooc.coupon.converter.CouponCategoryConverter;
 import com.imooc.coupon.converter.DistributeTargetConverter;
 import com.imooc.coupon.converter.ProductLineConverter;
-import com.imooc.coupon.entity.serialization.CouponTemplateSerialize;
+import com.imooc.coupon.serialization.CouponTemplateSerialize;
 import com.imooc.coupon.vo.TemplateRule;
 
 import lombok.AllArgsConstructor;

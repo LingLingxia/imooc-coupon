@@ -1,0 +1,1 @@
+vo:value object，常用于在service层传递对象
